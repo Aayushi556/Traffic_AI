@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Python environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
